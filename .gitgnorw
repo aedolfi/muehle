@@ -1,0 +1,6 @@
+*.mp3
+*.png
+.dist/
+.build/
+__pycache__/
+*.pyc
